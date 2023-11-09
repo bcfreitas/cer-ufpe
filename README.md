@@ -21,3 +21,10 @@ Acessar http://localhost:8080/
 
 ## how-to para executar a partir do código fonte
 
+1. cd ~/git (ou o diretório que você preferir para baixar)
+2. git clone git@github.com:bcfreitas/cer-ufpe.git
+3. npm install
+4. ng build (necessário Angular CLI 13+)
+5. ng serve
+
+Acessar http://localhost:4200/
